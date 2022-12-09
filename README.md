@@ -1,2 +1,1 @@
 # tele-notes
-city

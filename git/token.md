@@ -6,4 +6,4 @@
 
 ## 有效token保存
 
-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
+git remote set-url origin  https://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@github.com/`luo-city`/`tle-notes`.git

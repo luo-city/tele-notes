@@ -1,0 +1,7 @@
+[
+    {
+        "key":"escape",
+        "command": "toggleVim",
+        "when":"editorTextFocus && vim.mode =='Disabled' || editorTextFocus && vim.mode == 'Normal' "
+    },
+]
